@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "line_name": "Game Color",
+            "ref": "72001",
+            "name": "Dead White"
+        },
+        {
+            "line_name": "Game Air",
+            "ref": "72701",
+            "name": "Dead White"
+        },
+        {
+            "line_name": "Citadel",
+            "ref": "22-57",
+            "name": "White Scar"
+        },
+        {
+            "line_name": "Old Citadel",
+            "ref": "61-54",
+            "name": "Skull White"
+        },
+        {
+            "line_name": "Reaper",
+            "ref": "9039",
+            "name": "Pure White"
+        },
+        {
+            "line_name": "Model Color",
+            "ref": "70951",
+            "name": "White"
+        }
+    ]
+]
